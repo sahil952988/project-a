@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.vl{
+    border-left: 1px solid gray;
+    height: 80px;
+    
+}
+.fa-slack{
+    font-size: 40px;
+    color:#000075;
+}
+.fa-magnifying-glass{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+}
+.fa-message{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+}
+.fa-bell{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+}
+.a{
+    border-left: 1px solid gray;
+    height: 60px;
+    margin-top: 15px; 
+    margin-left: 15px;
+    margin-right: 15px;
+}
+body{
+   background-color: #F0F8FF;
+}
+.fa-cubes{
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 40px;
+    color: blue;
+}
+.b{
+    color:gray;
+}
+.c{
+    color: yellow;
+}
